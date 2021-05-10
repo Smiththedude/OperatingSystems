@@ -1,0 +1,1 @@
+One function of an operating system is to provide a user interface to make things easier to use. Without the user interface, your computer screen would be a jumble of code and command lines. This is probably the most useful function of the operating system.
